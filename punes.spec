@@ -2,7 +2,7 @@
 %define debug_package %{nil}
 
 Name:		punes
-Version:	0.61
+Version:	0.63
 Release:	%mkrel 1
 Summary:	Nintendo Entertaiment System (NES) emulator
 Group:		Emulators
