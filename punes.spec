@@ -3,7 +3,7 @@
 
 Name:		punes
 Version:	0.63
-Release:	%mkrel 1
+Release:	2
 Summary:	Nintendo Entertaiment System (NES) emulator
 Group:		Emulators
 License:	Freeware
