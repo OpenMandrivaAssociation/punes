@@ -4,7 +4,7 @@
 Summary:	Nintendo Entertaiment System (NES) emulator
 Name:		punes
 Version:	0.78
-Release:	2
+Release:	3
 License:	Freeware
 Group:		Emulators
 Url:		http://nesdev.parodius.com/bbs/viewtopic.php?t=6928
