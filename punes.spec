@@ -7,7 +7,7 @@ Version:	0.78
 Release:	3
 License:	Freeware
 Group:		Emulators
-Url:		http://nesdev.parodius.com/bbs/viewtopic.php?t=6928
+Url:		https://nesdev.parodius.com/bbs/viewtopic.php?t=6928
 # Downloaded from dropbox account, see URL
 Source0:	%{name}.32bit.tar.gz
 Source1:	%{name}.64bit.tar.gz
